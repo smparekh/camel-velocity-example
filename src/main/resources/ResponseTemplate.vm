@@ -1,0 +1,6 @@
+Hello ${headers.firstName},
+
+I received your greeting: 
+${body}
+
+Bye!
